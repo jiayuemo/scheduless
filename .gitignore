@@ -102,3 +102,4 @@ ENV/
 
 # Intellj .idea file
 .idea
+.idea/workspace.xml
